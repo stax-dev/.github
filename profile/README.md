@@ -9,6 +9,12 @@ We use our github repositary (repo) to store, manage and use files and codes cor
 ### Reporting issues and bugs
 Reporting issues and bugs is an important part of any open-source project, and we welcome your contributions in identifying and reporting them. If you have found an issue or bug in our codebase, please follow the steps outlined below to report it:
 
+1. Create a new issue: create a new issue by clicking on the "Issues" tab at the top of the repository page and then clicking on the "New issue" button. Please provide a clear and concise title and description of the issue and include any relevant code snippets, error messages, and screenshots.
+
+2. Include steps to reproduce: In order for us to be able to reproduce the issue and fix it, please provide steps to reproduce the problem. This includes any specific configurations, inputs, or dependencies that are required to reproduce the issue.
+
+3. Provide additional information: Any additional information that can help us understand and debug the issue is greatly appreciated. This includes your operating system, browser version, and any other relevant system information.
+
 <!--
 
 **Here are some ideas to get you started:**
