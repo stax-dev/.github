@@ -4,10 +4,10 @@
 At Stax, our mission is to be the leading company in the field of technology communications and dev ops. We are committed to improving communication and collaboration among teams, enhancing productivity, and driving growth for our clients. Through innovative solutions and a dedication to staying at the forefront of technology, we are working to create a world where businesses can leverage technology to achieve their goals more efficiently and effectively than ever before.
 
 ### Our frontend Stax Development Suite repository
-We use our github repositary (repo) to store, manage and use files and codes corresponding to the projects and their respective versions as a part of revision history. Our frontend Stax Development Suite repo called stax-dev-suite-frontend includes the frontend code for the Stax Developer Suite and is a place where we discuss and manage the project's work inside it.
+We use our github repositary (repo) to store, manage and use files and codes corresponding to the projects and their respective versions as a part of revision history. Our stax-dev-suite-frontend repo includes the frontend code for the Stax Developer Suite and is a place where we discuss and manage the project's work inside it.
 
 ### Reporting issues and bugs
-
+Reporting issues and bugs is an important part of any open-source project, and we welcome your contributions in identifying and reporting them. If you have found an issue or bug in our codebase, please follow the steps outlined below to report it:
 
 <!--
 
